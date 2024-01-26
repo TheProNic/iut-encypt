@@ -1,0 +1,23 @@
+{
+  "name": "@thepronic/iut-encypt",
+  "version": "1.0.0",
+  "description": "Module d'encryptage pour l'iut",
+  "main": "encrypt.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheProNic/iut-encypt.git"
+  },
+  "author": "TheProNic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheProNic/iut-encypt/issues"
+  },
+  "homepage": "https://github.com/TheProNic/iut-encypt#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jest": "^29.7.0"
+  }
+}
