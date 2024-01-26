@@ -12,6 +12,7 @@
   },
   "author": "TheProNic",
   "license": "ISC",
+  "private": false,
   "bugs": {
     "url": "https://github.com/TheProNic/iut-encypt/issues"
   },
